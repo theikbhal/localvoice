@@ -46,7 +46,7 @@ Kokoro wins here because it sounds close to paid services, runs comfortably in
 - macOS 14+ (tested on macOS 26.2)
 - Apple Silicon (tested on M4; Intel may work but is not tested)
 - 16 GB RAM recommended
-- ~2.5 GB disk for the Python environment and model
+- ~1.3 GB disk for the Python environment and model
 - Internet needed once, for setup
 
 ## Install
